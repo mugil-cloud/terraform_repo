@@ -73,7 +73,7 @@ You added inline comments and descriptions that clarify the purpose of each rule
 
 ---
 
-## 📘 Summary
+## Summary
 
 | Category              | Initial Issue                            | Fix / Optimization                          |
 |----------------------|-------------------------------------------|--------------------------------------------------|
